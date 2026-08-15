@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitest/config';
+import { defineConfig } from 'vitest/config'; 
 import { loadEnv } from 'vite';
 
 const network = process.env['MIDNIGHT_NETWORK'] ?? 'local';
