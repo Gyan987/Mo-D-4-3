@@ -1,7 +1,7 @@
 /node_modules
 /logs
 deployment.json
-/midnight-level-db
+/midnight-level-db 
 /.midnight-expert
 .env.preview
 .env.preprod
