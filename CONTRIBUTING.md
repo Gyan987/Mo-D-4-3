@@ -2,7 +2,7 @@
 
 We welcome your contributions to the Midnight network! By contributing, you'll play a vital role in shaping the future of a blockchain focused on data privacy.
 
-## Contributor License Agreement
+## Contributor License Agreement 
 
 Like many other open source projects, we ask contributors to sign a contributor
 License Agreement before accepting contributions. We use CLA assistant (https://github.com/cla-assistant/cla-assistant) to streamline the CLA
