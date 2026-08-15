@@ -1,4 +1,4 @@
-# New Moon to Full: Monthly Moonshots on Midnight 🌙
+# New Moon to Full: Monthly Moonshots on Midnight 🌙 
 
 This workspace is for participating in the "New Moon to Full" builder journey. Below are the level-wise requirements to adhere to.
 
