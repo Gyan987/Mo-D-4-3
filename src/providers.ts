@@ -1,4 +1,4 @@
-import { type MidnightProviders } from '@midnight-ntwrk/midnight-js-types';
+import { type MidnightProviders } from '@midnight-ntwrk/midnight-js-types'; 
 import { indexerPublicDataProvider } from '@midnight-ntwrk/midnight-js-indexer-public-data-provider';
 import { httpClientProofProvider } from '@midnight-ntwrk/midnight-js-http-client-proof-provider';
 import { NodeZkConfigProvider } from '@midnight-ntwrk/midnight-js-node-zk-config-provider';
