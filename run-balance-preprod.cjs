@@ -3,7 +3,7 @@ const fs = require('fs');
 const env = fs.readFileSync('.env.preprod', 'utf8').split('\n').reduce((acc, line) => {
     const parts = line.split('=');
     if(parts.length >= 2) acc[parts[0]] = parts.slice(1).join('=').trim();
-    return acc;
+    return acc; 
 }, {});
 env['MIDNIGHT_NETWORK'] = 'preprod';
 
