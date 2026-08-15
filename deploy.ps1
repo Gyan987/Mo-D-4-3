@@ -4,7 +4,7 @@ param(
 
 $env:MIDNIGHT_NETWORK = $network
 
-# Load environment variables from the corresponding .env file
+# Load environment variables from the corresponding .env file 
 $envFile = ".env.$network"
 if (Test-Path $envFile) {
     Get-Content $envFile | ForEach-Object {
