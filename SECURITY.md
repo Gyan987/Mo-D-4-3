@@ -1,6 +1,6 @@
 # Midnight Foundation Security Policy
 
-This document outlines security procedures and general policies for the Midnight Foundation.
+This document outlines security procedures and general policies for the Midnight Foundation. 
 
 This policy adheres to the [vulnerability management guidance](https://www.linuxfoundation.org/security)
 for Linux Foundation projects.
