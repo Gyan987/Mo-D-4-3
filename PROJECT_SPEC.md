@@ -1,6 +1,6 @@
 # Project Spec: ScholarShield | Privacy-Preserving Scholarship Verification on Midnight
 
-## 1. Overview
+## 1. Overview 
 A decentralized application (dApp) that allows students to prove their eligibility for scholarships (based on GPA, income, category, and age) without revealing their raw personal data or certificates. It utilizes Midnight's zero-knowledge proofs to check that credentials issued by trusted authorities satisfy scholarship rules.
 
 ---
