@@ -17,7 +17,7 @@ ScholarShield is a decentralized application (dApp) engineered on the **Midnight
 ---
 
 ## Table of Contents
-
+Important X post LINK :https://x.com/GyanPrakash987/status/2089711607773630495?s=20
 1. [Official Submission Links](#official-submission-links)
 2. [Architectural Overview](#architectural-overview)
 3. [Zero-Knowledge Privacy Model](#zero-knowledge-privacy-model)
