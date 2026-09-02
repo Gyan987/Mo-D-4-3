@@ -36,7 +36,7 @@ A decentralized application (dApp) that allows students to prove their eligibili
 
 | Data Point | What is Public (Ledger) | What is Private (Witness) |
 | :--- | :--- | :--- |
-| **Student Identity** | None (unless linked to payout address) | Full identity details |
+| **Student Identity** | None (unless linked to payout address) | Full identity details | 
 | **GPA** | Only that `GPA >= threshold` | Exact GPA (e.g., `9.13`) |
 | **Family Income** | Only that `Income <= threshold` | Exact income (e.g., `₹1,80,000`) |
 | **Category** | Only that it is on the allowed list | Exact category |
