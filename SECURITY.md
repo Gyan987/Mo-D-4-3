@@ -41,7 +41,7 @@ you informed of the progress towards a fix and full announcement, and may ask
 for additional information or guidance.
 
 Thank you for improving the security of Midnight. We appreciate your dedication to responsible disclosure and will
-make every effort to acknowledge your contributions.
+make every effort to acknowledge your contributions. 
 
 ## Vulnerability management
 
