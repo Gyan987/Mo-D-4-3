@@ -38,7 +38,7 @@ Important X post LINK :https://x.com/GyanPrakash987/status/2089711607773630495?s
 
 ## Architectural Overview
 
-ScholarShield bridges modern web infrastructure with cutting-edge cryptographic privacy networks.
+ScholarShield bridges modern web infrastructure with cutting-edge cryptographic privacy networks. 
 
 - **Smart Contract Layer:** Written in Compact (`scholarship.compact`), compiled to WebAssembly (WASM) and Zero-Knowledge Intermediate Representation (ZKIR). Deployed on the Midnight Preprod network.
 - **Frontend Application Layer:** Built with React, TypeScript, and Vite. Styled using a custom cyber-grid aesthetic via Tailwind CSS.
